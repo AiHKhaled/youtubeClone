@@ -1,0 +1,16 @@
+.field {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-right: 5rem;
+}
+
+.inputText {
+  background-color: rgb(19, 17, 17);
+  color: white;
+  border: none;
+  justify-self: center;
+  margin-top: 20px;
+  width: 80vh;
+  height: 40px;
+}
